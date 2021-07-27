@@ -8,7 +8,7 @@ in This project with basic knowlegde of HTML and CSS i try to replicate the simp
 1. HTML
 2. style with CSS.
 
-[live.demo]()
+[live.demo](https://dansam5k.github.io/google-homepage/)
 
 ## Author
 
